@@ -23,7 +23,6 @@
      talkToGrandma = @"Hi, Grandma!";
      shoutAtGrandma = [talkToGrandma uppercaseString];
      */
-    
     if (shouting) {
         NSLog(@"NO, NOT SINCE 1938!");
     } else {
@@ -51,7 +50,6 @@
     } else {
         NSLog(@"NO, NOT SINCE 1938!");
     }
-    
     
     return YES; // Don't alter this statement.
 }
